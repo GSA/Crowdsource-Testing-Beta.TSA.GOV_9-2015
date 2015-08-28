@@ -5,6 +5,8 @@ Welcome to the Test Cycle!
 
 Agency: TSA
 
+URL: http://beta.tsa.gov/
+
 Agency Representative: Rigina Pietrowski rigina.pietrowski@tsa.dhs.gov
 
 Application Name: Beta.TSA.gov
@@ -27,7 +29,7 @@ This document gives some terms and insights into testing mobile applications.
 
 This folder on the Google Drive that has all the project artifacts:
 
-X
+https://drive.google.com/open?id=0B2idn27Mp7VTfmgtVS1oSlNvSk5oWnAycHJGQnhrVXhlQmVGUFhNTEVPVkRjV2dKUEdGY00
 
 === Test Cycle Questionnaire ===
 
