@@ -11,7 +11,7 @@ Agency Representative: Rigina Pietrowski rigina.pietrowski@tsa.dhs.gov
 
 Application Name: Beta.TSA.gov
 
-Test Cycle Dates: 9/14/2015 to 9/20/2015
+Test Cycle Dates: 9/21/2015 to 9/28/2015
 
 Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
