@@ -1,11 +1,11 @@
-# Crowdsource-Testing-Beta.TSA.GOV_9-2015
+# Crowdsource-Testing-TSA.GOV_9-2015
 Artifacts from the 9/2015 Federal Crowdsourcing and Beta.TSA.gov Crowdsource Compatibility Test-cycle
 
 Welcome to the Test Cycle!
 
 Agency: TSA
 
-URL: http://beta.tsa.gov/
+URL: http://tsa.gov/
 
 Agency Representative: Rigina Pietrowski rigina.pietrowski@tsa.dhs.gov
 
